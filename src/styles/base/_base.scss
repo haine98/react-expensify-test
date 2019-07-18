@@ -5,8 +5,10 @@ html {
 }
 
 body {
+    color: $dark-gray;
     font-family: Helvetica;
     font-size: $m-size;
+    line-height: 1.6;
 }
 
 button {
